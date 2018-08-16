@@ -1,0 +1,10 @@
+C:\Users\aluno\Documents\ExercicioED\ExercicioED\bin\Debug\ExercicioED.exe.config
+C:\Users\aluno\Documents\ExercicioED\ExercicioED\bin\Debug\ExercicioED.exe
+C:\Users\aluno\Documents\ExercicioED\ExercicioED\bin\Debug\ExercicioED.pdb
+C:\Users\aluno\Documents\ExercicioED\ExercicioED\obj\Debug\ExercicioED.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Documents\ExercicioED\ExercicioED\obj\Debug\ExercicioED.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\ExercicioED\ExercicioED\obj\Debug\ExercicioED.exe
+C:\Users\aluno\Documents\ExercicioED\ExercicioED\obj\Debug\ExercicioED.pdb
+C:\Users\aluno\Desktop\ExercicioED\ExercicioED\bin\Debug\ExercicioED.exe.config
+C:\Users\aluno\Desktop\ExercicioED\ExercicioED\obj\Debug\ExercicioED.exe
+C:\Users\aluno\Desktop\ExercicioED\ExercicioED\obj\Debug\ExercicioED.pdb
